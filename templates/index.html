@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-8">
+        {{ content|safe }}
+    </div>
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Quick Links</h5>
+                <ul class="list-unstyled">
+                    <li><a href="/publications">Publications</a></li>
+                    <li><a href="/experience">Professional Experience</a></li>
+                    <li><a href="https://scholar.google.com/citations?user=k4H0booAAAAJ&hl=en" target="_blank">Google Scholar Profile</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %} 
