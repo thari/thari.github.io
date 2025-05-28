@@ -1,5 +1,5 @@
 =======================
-Dr. Hariharan Thiagarajan
+Hariharan Thiagarajan
 =======================
 
 -----------------------------------
