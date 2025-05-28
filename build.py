@@ -57,7 +57,11 @@ def main():
     build_page('experience.html', 'experience.rst', '_site/experience/index.html')
 
     # Copy static files
-    shutil.copytree('static', '_site/static', dirs_exist_ok=True)
+    if os.path.exists('static'):
+        shutil.copytree('static', '_site/static', dirs_exist_ok=True)
+        print("Static files copied successfully")
+    else:
+        print("Warning: static directory not found")
 
 if __name__ == '__main__':
     main() 
