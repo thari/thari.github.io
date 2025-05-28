@@ -42,11 +42,15 @@ Selected Publications
    
    Kansas State University, 2011
 
-Metrics
--------
+Presentations
+------------
 
-- Total Citations: 28
-- h-index: 3
-- i10-index: 1
+1. **Model-based risk analysis for an open-source PCA pump using AADL error modeling**
+   
+   Presented at International Symposium on Model-Based Safety and Assessment, 2020
+
+2. **Bakar Alir: supporting developers in construction of information flow contracts in SPARK**
+   
+   Presented at IEEE 12th International Working Conference on Source Code Analysis and Manipulation, 2012
 
 For a complete list of publications and citations, please visit my `Google Scholar profile <https://scholar.google.com/citations?user=k4H0booAAAAJ&hl=en>`_. 
