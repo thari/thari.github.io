@@ -5,6 +5,12 @@ import docutils.core
 from datetime import datetime
 
 app = Flask(__name__)
+# Configure Flask for URL generation
+app.config.update(
+    SERVER_NAME='localhost',
+    APPLICATION_ROOT='/',
+    PREFERRED_URL_SCHEME='http'
+)
 
 def rst_to_html(rst_content):
     """Convert RST content to HTML."""
