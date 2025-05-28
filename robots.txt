@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://thari.github.io/sitemap.xml
