@@ -1,7 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: #333;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 .navbar-brand {
@@ -9,7 +17,8 @@ body {
 }
 
 main {
-    min-height: calc(100vh - 200px);
+    flex: 1 0 auto;
+    padding: 2rem 0;
 }
 
 .card {
@@ -53,5 +62,8 @@ main {
 }
 
 footer {
+    flex-shrink: 0;
+    background-color: #343a40;
+    padding: 2rem 0;
     margin-top: auto;
 } 
