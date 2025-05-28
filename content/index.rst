@@ -42,4 +42,4 @@ Feel free to reach out to me through:
 
 - Email: `hariharanthiagu@gmail.com <mailto:hariharanthiagu@gmail.com>`_
 - `Google Scholar <https://scholar.google.com/citations?user=k4H0booAAAAJ&hl=en>`_
-- `LinkedIn <https://www.linkedin.com/in/hariharan-thiagarajan>`_ 
+- `LinkedIn <https://www.linkedin.com/in/thariksu>`_ 
